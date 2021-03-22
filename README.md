@@ -16,7 +16,8 @@
 -->
 
 - 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning web develobing
+- 🌱 I’m currently a full stack web developer
+- Using python django as backend
 
 
 
