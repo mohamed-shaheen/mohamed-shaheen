@@ -15,9 +15,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently a full stack web developer
-- Using python django as backend
+- 🔭 I’m currently working as freelancer (Full stack developer)
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: mohamed_shaheen97@outlook.com
 
 
 
